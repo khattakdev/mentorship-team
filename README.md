@@ -1,0 +1,3 @@
+# Node.js Mentorship Program
+
+Node.js has always been one of my most favorite technology and I love to work with it. Joining the mentorship program will help me to get involved with the node.js community and get to know some awesome folks that are involved with node.js. My expectations from the program is that I'll be able to get mentorship from experts who have good knowledge of node.js and has been working on node.js for a long time. I'll be able to get familiar with node.js source code (some specific module) and be able to contribute to it by either fixing bugs, introducing new features, tracking bugs etc.This way, I'll be able to improve node.js community and environment and also help myself to stand out from the crowd when applying for the node.js jobs.
